@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_additional.xml" value="0.22327898550724637" />
+        <entry key="app/src/main/res/layout/activity_exam.xml" value="0.22327898550724637" />
+        <entry key="app/src/main/res/layout/activity_first.xml" value="0.22327898550724637" />
+        <entry key="app/src/main/res/layout/activity_game.xml" value="0.22327898550724637" />
+        <entry key="app/src/main/res/layout/item_answer_letter.xml" value="0.22327898550724637" />
+        <entry key="app/src/main/res/layout/item_choose_letter.xml" value="0.22327898550724637" />
+        <entry key="app/src/main/res/layout/item_question.xml" value="0.22327898550724637" />
+        <entry key="app/src/main/res/xml/files_paths.xml" value="0.22327898550724637" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="azul-16" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

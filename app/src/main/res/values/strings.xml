@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LigaQ</string>
+
+    <string name="storage_permission_rationale_title">title</string>
+    <string name="storage_permission_rationale_message">message</string>
+    <string name="error_message">Error occurred. Please, try again later.</string>
+    <string name="well_done">+100 очков. Молодец!</string>
+    <string name="bad_done">Неверный ответ. Пожалуйста, попробуйте ещё раз.</string>
+    <string name="coming_soon">Этот фукнционал мы добавим позже</string>
+    <string name="exit_alert">Вы уверены, что хотите выйти?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="finish_congrats">Поздравляем! Вы выиграли!!! Желаете сыграть заново?</string>
+
+</resources>
